@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: WASTE_MANAGEMENT/WASTECONNECTIONS
+# records: 5
+# head: 831ba12e8586ecf15455d15c597d5ef1eafc734866691fbcd1bdc0732bc14650
+{"digest": "f33ad48dda2ebcca2519f9b6ee2dafe934a968ebf1365274a7e0c155fc39c4cc", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "e3d37c10d319ab0be8578b3ab78f243e4847820178ee74ed55976a57a797d1b5", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:55:09Z"}
+{"digest": "6035e7580633ebe0856fb1f7c549a38b6b27d2b26b248543a117ecb0f7d3ee5e", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "6d3f885b9769827863eb2da0ea2b5d402959a8fabb06681d4ee992457b44d34d", "prev": "f33ad48dda2ebcca2519f9b6ee2dafe934a968ebf1365274a7e0c155fc39c4cc", "seq": 1, "ts": "2026-10-09T05:55:09Z"}
+{"digest": "9c50ffe820d4231f8c70dce77952fcf813c6bd9adaed1cfa1a564a56c7757ddb", "kind": "readme", "path": "README.md", "payload_sha3": "89b23afb8e271bbbfc6345f2f8d3a252bf09c6ffe507dd323cd0cf555d2b9731", "prev": "6035e7580633ebe0856fb1f7c549a38b6b27d2b26b248543a117ecb0f7d3ee5e", "seq": 2, "ts": "2026-10-09T05:55:09Z"}
+{"digest": "a4a460e49bf2244bda1185b5a0f2bf6e4b3e770e0c928323abc23ca3fe228a78", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "c262845027d2e6614e403929e6dc15f0511c9fd2057849460fa8adebc8082ba6", "prev": "9c50ffe820d4231f8c70dce77952fcf813c6bd9adaed1cfa1a564a56c7757ddb", "seq": 3, "ts": "2026-10-09T05:55:09Z"}
+{"digest": "831ba12e8586ecf15455d15c597d5ef1eafc734866691fbcd1bdc0732bc14650", "kind": "notice", "path": "NOTICE", "payload_sha3": "5066f1046ea1ddf0d8a1be231bb4ebb716c6ea2786839554ff5298ab0d91882b", "prev": "a4a460e49bf2244bda1185b5a0f2bf6e4b3e770e0c928323abc23ca3fe228a78", "seq": 4, "ts": "2026-10-09T05:55:09Z"}
